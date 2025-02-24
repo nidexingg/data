@@ -1,0 +1,50 @@
+{
+    name: "Vite.dev",
+    title: "Documentation",
+    description:
+      "Vite is an incredible tool that powers much of today's modern web techs. I aim to contribute by adding Khmer language support to its rich documentation site.",
+    image: "https://utfs.io/f/zFc0JO2X7yZD63NE5v4MDSZqbR3di9vFa4uewj7kX5z0Cxnf",
+    url: "https://vite-docs-km.nidexingg.com/",
+    applink: "https://vite-docs-km.nidexingg.com/",
+  },
+  {
+    name: "Telegram",
+    title: "Translation",
+    description:
+      "I've been actively translating Telegram since July 28, 2023, and I am currently the most engaged translator for the Khmer package among my two teammates.",
+    image:
+      "https://play-lh.googleusercontent.com/pgiel6OzR01do2sPxONlteJ5_GAwD6W-JpiF98hdns3XinShKZkziUd1B8sG-8qa",
+
+    url: "https://t.me/translation_khmer",
+    applink: "https://telegram.org",
+  },
+  {
+    name: "LocalSend",
+    title: "An AirDrop Alternative",
+    description:
+      "LocalSend is a cross-platform app that enables secure communication between devices using a REST API and HTTPS encryption.",
+    image:
+      "https://miro.medium.com/v2/resize:fit:1400/1*YeZKcvCwN6ioVVE61G1YGQ.png",
+    url: "https://github.com/localsend/localsend/commits?author=nidexingg",
+    applink: "https://localsend.org",
+  },
+  {
+    name: "LocalSend",
+    title: "Official Website",
+    description:
+      "LocalSend is a cross-platform app that enables secure communication between devices using a REST API and HTTPS encryption.",
+    image:
+      "https://miro.medium.com/v2/resize:fit:1400/1*YeZKcvCwN6ioVVE61G1YGQ.png",
+    url: "https://github.com/localsend/website/commits?author=nidexingg",
+    applink: "https://localsend.org",
+  },
+  {
+    name: "Giscus",
+    title: "Free & Open-source comment system",
+    description:
+      "A comments system powered by GitHub Discussions. Let visitors leave comments and reactions on your website via GitHub! Heavily inspired by utterances.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLnGoc0zGxC2BO8BfuQze6O_T3MzQPgUn93g&s",
+    url: "https://github.com/giscus/giscus/commits?author=nidexingg",
+    applink: "https://giscus.app",
+  },
