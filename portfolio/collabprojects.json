@@ -1,5 +1,13 @@
 [
   {
+    "name": "Nuxt UI 3",
+    "title": "UI library",
+    "description": "A comprehensive, Nuxt-integrated UI library providing a rich set of fully-styled, accessible and highly customizable components for building modern web app.",
+    "image": "https://volta.s3.fr-par.scw.cloud/nuxt_ui_social_card_531d133fa2.png",
+    "url": "https://github.com/nuxt/ui/commits?author=nidexingg",
+    "applink": "https://ui3.nuxt.dev/"
+  },
+  {
     "name": "Vite.dev",
     "title": "Documentation",
     "description": "Vite is an incredible tool that powers much of today's modern web techs. I aim to contribute by adding Khmer language support to its rich documentation site.",
