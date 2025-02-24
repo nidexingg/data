@@ -1,0 +1,81 @@
+{
+    name: "nidexingg/ui",
+    title:
+      "An Elegant and Beautiful UI Components Library That you would love to use.",
+    description:
+      "[Coming Soon] Rich of customizable and effortless. Simplify your works, straighforward, no messy or headache configuration.",
+    image: "https://utfs.io/f/zFc0JO2X7yZDv3Dxd7fkcVdJewUr2PWHaXh1qCfbMZ8tmB90",
+    appico: "https://cloudmariazona.vercel.app/pwaicons/weattend/64.png",
+    icon: "",
+    tag: "Library",
+    stacks: [
+      "skill-icons:nuxtjs-dark",
+      "skill-icons:vuejs-dark",
+      "skill-icons:typescript",
+      "skill-icons:tailwindcss-dark",
+      "skill-icons:figma-dark",
+    ],
+    url: "https://ui.nidexingg.com",
+  },
+  {
+    name: "Plattendum",
+    title:
+      "An instant & next generation event attendance recorder. Free, Fast, Finest.",
+    description:
+      "Make your life easier and more productivity. It's open-source, free and efficient. With great utilization of advanced tech stack, comes great webapp.",
+    image: "https://cloudmariazona.vercel.app/img/seo/weattend.png",
+    appico: "https://cloudmariazona.vercel.app/pwaicons/weattend/64.png",
+    icon: "icon-park-twotone:web-page",
+    tag: "WebApp",
+    stacks: [
+      "skill-icons:nuxtjs-dark",
+      "skill-icons:vuejs-dark",
+      "skill-icons:typescript",
+      "skill-icons:tailwindcss-dark",
+      "skill-icons:supabase-dark",
+      "skill-icons:postgresql-dark",
+    ],
+    url: "https://plattendum.nidexingg.com/",
+  },
+  {
+    name: "XingPay",
+    title: "A Telegram BOT served as a secure payment gateway.",
+    description:
+      "The KHQR-like Payment Gateway bot generates QR code to transfer balance both in USD & KHR without utilizing KHQR, Bank or any affiliated API.",
+    image: "https://utfs.io/f/yHCygcVWAE4l5wteL3k2JrUKY73XOEkbIm6A8R49pTMCflxw",
+    appico: "https://cloudmariazona.vercel.app/pwaicons/xingpay/64.png",
+    icon: "bi:robot",
+    tag: "BOT",
+    stacks: ["skill-icons:expressjs-dark", "skill-icons:nodejs-dark"],
+    url: "https://t.me/khqrforxing_bot",
+  },
+  {
+    name: "XingPay",
+    title: "A WebApp served as a secure payment gateway.",
+    description:
+      "A KHQR-like Payment Gateway webapp generates QR code to transfer balance both in USD and KHR without utilizing KHQR, Bank or any affiliated API.",
+    image: "https://utfs.io/f/yHCygcVWAE4l5wteL3k2JrUKY73XOEkbIm6A8R49pTMCflxw",
+    appico: "https://cloudmariazona.vercel.app/pwaicons/xingpay/64.png",
+    icon: "icon-park-twotone:web-page",
+    tag: "WebApp",
+    stacks: [
+      "skill-icons:nuxtjs-dark",
+      "skill-icons:vuejs-dark",
+      "skill-icons:typescript",
+      "skill-icons:tailwindcss-dark",
+    ],
+    url: "https://pay.nidexingg.com/",
+  },
+  {
+    name: "Mariazona Encryption Engine",
+    title: "Your personal data should only belongs to you.",
+    description:
+      "A Web Application served as an advanced encryption engine integrated with AES encoding and decoding techniques to en/decrypt text-formatted data.",
+    image:
+      "https://imgs.search.brave.com/vzSTeA84nqa4Jfh9D6rtQ-sK2CHaCDHxGu5pGJAKT-o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS8zNS85/NS9oM3dSZnYuanBn",
+    appico: "https://cloudmariazona.vercel.app/pwaicons/mrznencr/64.png",
+    icon: "icon-park-twotone:web-page",
+    tag: "WebApp",
+    stacks: ["skill-icons:vuejs-dark", "skill-icons:javascript"],
+    url: "https://encrypt.nidexingg.com/",
+  },
